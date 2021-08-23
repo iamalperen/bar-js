@@ -58,7 +58,7 @@ Defines the data objects. The objects should have 2 key-value pairs: label and v
 ```
 
 ## Licence
-[MIT](LICENCE.md) © [Alperen](https://github.com/alperentalaslioglu)
+[MIT](LICENSE.md) © [Alperen](https://github.com/alperentalaslioglu)
 
 
 
