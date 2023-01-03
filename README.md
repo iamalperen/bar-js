@@ -49,11 +49,11 @@ Defines the data objects. The objects should have 2 key-value pairs: label and v
 
 ```js
   var data = [
-    {label: 'Jan', value: 123,
-    {label: 'Feb', value: 11,
-    {label: 'March', value: 55,
-    {label: 'April', value: 893,
-    {label: 'May', value: 343
+        {label: 'Jan', value: 123},
+        {label: 'Feb', value: 11},
+        {label: 'March', value: 55},
+        {label: 'April', value: 893},
+        {label: 'May', value: 343}
   ];
 ```
 
